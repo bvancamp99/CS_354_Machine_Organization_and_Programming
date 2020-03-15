@@ -1,0 +1,15 @@
+﻿  check_queens.c
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(27): warning C4273: 'strtok': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see previous definition of 'strtok'
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(95): warning C4018: '>': signed/unsigned mismatch
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(135): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(26): note: see declaration of 'strtok'
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(138): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(26): note: see declaration of 'strtok'
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(292): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(326): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(26): note: see declaration of 'strtok'
+d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(331): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\uw madison files\year 2\spring 2019\cs354\p2\check_queens.c(26): note: see declaration of 'strtok'
+  p2a - Check Queens.vcxproj -> D:\UW Madison files\Year 2\Spring 2019\CS354\p2\p2a - Check Queens\Debug\p2a - Check Queens.exe
