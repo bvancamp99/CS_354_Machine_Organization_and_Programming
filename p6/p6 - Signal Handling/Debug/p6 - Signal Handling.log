@@ -1,0 +1,3 @@
+﻿  division.c
+C:\Users\bryce\Documents\to add to usb\p6 - Signal Handling\p6 - Signal Handling\division.c(39): warning C4013: 'atoi' undefined; assuming extern returning int
+  p6 - Signal Handling.vcxproj -> C:\Users\bryce\Documents\to add to usb\p6 - Signal Handling\Debug\p6 - Signal Handling.exe
