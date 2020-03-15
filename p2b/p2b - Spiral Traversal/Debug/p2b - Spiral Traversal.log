@@ -1,0 +1,14 @@
+﻿  traverse_spiral.c
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(49): warning C4013: 'getline' undefined; assuming extern returning int
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(122): warning C4101: 'j': unreferenced local variable
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(122): warning C4101: 'i': unreferenced local variable
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(121): warning C4101: 'col_num': unreferenced local variable
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(195): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(237): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(241): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+e:\uw madison files\year 2\spring 2019\cs354\p2b\traverse_spiral.c(109): warning C4715: 'get_line_len': not all control paths return a value
+traverse_spiral.obj : error LNK2019: unresolved external symbol _getline referenced in function _get_dimensions
+E:\UW Madison files\Year 2\Spring 2019\CS354\p2b\p2b - Spiral Traversal\Debug\p2b - Spiral Traversal.exe : fatal error LNK1120: 1 unresolved externals
